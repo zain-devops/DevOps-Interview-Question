@@ -1,37 +1,167 @@
-# DevOps & SRE Interview Questions
+## 🏢 Company Interview Index
 
-Real interview questions collected from people who actually sat through DevOps, SRE, and Cloud engineering interviews in 2025 and 2026. No paraphrasing, no "top 50 questions" filler — these are the exact questions candidates were asked, organized so you can look up a specific company or just browse broadly to prep.
+Explore interview experiences from **85 company folders**. Choose alphabetical navigation to find a company quickly, or browse by broad industry category.
 
-## What's here
+> 💡 **Tip:** Click a company name to open its interview folder. Categories are approximate and intended for navigation, not a classification of every interview or business unit.
 
-- **151 interview write-ups**
-- **85 companies**, plus an `Others/` folder for interviews where the company wasn't named
-- Topics span Kubernetes, Docker, Terraform, AWS/Azure/GCP, CI/CD (Jenkins, GitHub Actions, Azure DevOps), Ansible, Linux, scripting, and SRE fundamentals (SLI/SLO/SLA, observability, incident response)
+### 🔤 Alphabetical Company Index
 
-Some companies show up more than once — different candidates, different rounds, sometimes years apart. Each of those is kept as a separate file rather than merged, since the questions and interviewer style often differ.
+<details open>
+<summary><strong>Browse all companies (A–Z)</strong></summary>
 
-## How it's organized
+| Company | Company | Company |
+|---|---|---|
+| [Accenture](./Accenture/) | [Accion Labs](./Accion_Labs/) | [Accolite](./Accolite/) |
+| [Akamai](./Akamai/) | [Alphadyne](./Alphadyne/) | [Altimetrik](./Altimetrik/) |
+| [Amadeus Labs](./Amadeus_Labs/) | [Amazon](./Amazon/) | [AMEX](./AMEX/) |
+| [Arrise Solutions](./Arrise_Solutions/) | [Aspire](./Aspire/) | [Belcan](./Belcan/) |
+| [Blue Yonder](./Blue_Yonder/) | [BMW TechWorks](./BMW_TechWorks/) | [Capgemini](./Capgemini/) |
+| [CGI](./CGI/) | [Cisco](./Cisco/) | [CMT](./CMT/) |
+| [Commonwealth Bank](./Commonwealth_Bank/) | [CTS](./CTS/) | [Deloitte](./Deloitte/) |
+| [Elixr Labs](./Elixr_Labs/) | [Emphasis](./Emphasis/) | [Encora](./Encora/) |
+| [EPAM](./EPAM/) | [EXL Service](./EXL_Service/) | [EY](./EY/) |
+| [F5](./F5/) | [Five9](./Five9/) | [Flentas](./Flentas/) |
+| [HCL](./HCL/) | [Hexaware](./Hexaware/) | [IBM](./IBM/) |
+| [Infinite Solutions](./Infinite_Solutions/) | [Infosys](./Infosys/) | [Intact Green Services](./Intact_Green_Services/) |
+| [ITC Infotech](./ITC_Infotech/) | [JPMorgan](./JPMorgan/) | [Koerber Pharma](./Koerber_Pharma/) |
+| [L&T](./L_and_T/) | [LTIMindtree](./LTIMindtree/) | [Marsh McLennan](./Marsh_McLennan/) |
+| [Moody's](./Moodys/) | [Morgan Stanley](./Morgan_Stanley/) | [NatWest Group](./NatWest_Group/) |
+| [Netcracker](./Netcracker/) | [Nextturn](./Nextturn/) | [NICE](./Nice/) |
+| [Nisum Technologies](./Nisum_Technologies/) | [Nitor Infotech](./Nitor_Infotech/) | [NPCI](./NPCI/) |
+| [NUOS INFO Systems](./NUOS_INFO_Systems/) | [One2N](./One2N/) | [OPT IT](./OPT_IT/) |
+| [Optum](./Optum/) | [Oracle](./Oracle/) | [Orion Innovation](./Orion_Innovation/) |
+| [Others](./Others/) | [Perfios](./Perfios/) | [Persistent Systems](./Persistent_Systems/) |
+| [PlanSource ValueLabs](./Plansource_ValueLabs/) | [Publicis Global Delivery](./Publicis_Global_Delivery/) | [QBurst](./Qburst/) |
+| [Qentelli Solutions](./Qentelli_Solutions/) | [Rapidsoft](./Rapidsoft/) | [Relevantz](./RelevantZ/) |
+| [SAP](./SAP/) | [Sapient](./Sapient/) | [Sigmoid](./Sigmoid/) |
+| [Sonata Software](./Sonata_Software/) | [Sony](./Sony/) | [SquareOps](./SquareOps/) |
+| [Syncortex](./Syncortex/) | [Synechron](./Synechron/) | [TCS](./TCS/) |
+| [Techdome](./Techdome/) | [Turning](./Turning/) | [UST](./UST/) |
+| [Verizon](./Verizon/) | [Virtusa](./Virtusa/) | [Volkswagen Group Digital](./Volkswagen_Group_Digital/) |
+| [Wikreate Media](./Wikreate_Media/) | [Wipro](./Wipro/) | [Zensar](./Zensar/) |
+| [ZopSmart](./ZopSmart/) | [ZS Associates](./ZS_Associates/) | |
 
-```
-<Company Name>/
-  DevOps_Engineer.md        (default when no specific role was mentioned)
-  DevOps_Engineer_2.md      (second interview for the same company)
-  SRE_principal.md          (used when a role was explicitly called out)
-  ...
-```
+</details>
 
-Each file is one interview experience. If a company was interviewed at more than once, you'll find multiple files in its folder instead of one giant merged list. Roles are reflected in the filename when the original submission mentioned one; otherwise it defaults to `DevOps_Engineer`.
+### 🗂️ Browse by Company Category
 
-Submissions that never named a company live under `Others/`.
+<details>
+<summary><strong>💻 IT Services, Consulting & Digital Engineering</strong></summary>
 
-## Using this
+- [Accenture](./Accenture/)
+- [Accion Labs](./Accion_Labs/)
+- [Accolite](./Accolite/)
+- [Altimetrik](./Altimetrik/)
+- [Amadeus Labs](./Amadeus_Labs/)
+- [Arrise Solutions](./Arrise_Solutions/)
+- [Aspire](./Aspire/)
+- [Belcan](./Belcan/)
+- [Capgemini](./Capgemini/)
+- [CGI](./CGI/)
+- [CTS](./CTS/)
+- [Deloitte](./Deloitte/)
+- [Elixr Labs](./Elixr_Labs/)
+- [Emphasis](./Emphasis/)
+- [Encora](./Encora/)
+- [EPAM](./EPAM/)
+- [EXL Service](./EXL_Service/)
+- [EY](./EY/)
+- [Flentas](./Flentas/)
+- [HCL](./HCL/)
+- [Hexaware](./Hexaware/)
+- [Infinite Solutions](./Infinite_Solutions/)
+- [Infosys](./Infosys/)
+- [ITC Infotech](./ITC_Infotech/)
+- [L&T](./L_and_T/)
+- [LTIMindtree](./LTIMindtree/)
+- [Nisum Technologies](./Nisum_Technologies/)
+- [Nitor Infotech](./Nitor_Infotech/)
+- [One2N](./One2N/)
+- [OPT IT](./OPT_IT/)
+- [Orion Innovation](./Orion_Innovation/)
+- [Persistent Systems](./Persistent_Systems/)
+- [Publicis Global Delivery](./Publicis_Global_Delivery/)
+- [QBurst](./Qburst/)
+- [Qentelli Solutions](./Qentelli_Solutions/)
+- [Rapidsoft](./Rapidsoft/)
+- [Relevantz](./RelevantZ/)
+- [Sapient](./Sapient/)
+- [Sonata Software](./Sonata_Software/)
+- [Synechron](./Synechron/)
+- [TCS](./TCS/)
+- [Techdome](./Techdome/)
+- [UST](./UST/)
+- [Virtusa](./Virtusa/)
+- [Wipro](./Wipro/)
+- [Zensar](./Zensar/)
 
-Search the repo for a company name, or open its folder directly. If you're prepping broadly rather than for one company, skim a handful of folders across different company sizes (product companies, service companies like TCS/Infosys/Wipro, fintech, etc.) — the range of questions tells you more than any single list.
+</details>
 
-## Contributing
+<details>
+<summary><strong>☁️ Technology, Cloud, Software & Product Companies</strong></summary>
 
-Have an interview experience worth sharing? Add it as a new file under the matching company folder (create the folder if it doesn't exist yet). Keep the one-file-per-interview format, and include the role and years of experience at the top if you can — it helps other candidates gauge relevance. If the company can't be named, put it under `Others/`.
+- [Akamai](./Akamai/)
+- [Amazon](./Amazon/)
+- [Blue Yonder](./Blue_Yonder/)
+- [Cisco](./Cisco/)
+- [F5](./F5/)
+- [Five9](./Five9/)
+- [IBM](./IBM/)
+- [Netcracker](./Netcracker/)
+- [NICE](./Nice/)
+- [Oracle](./Oracle/)
+- [SAP](./SAP/)
+- [Sony](./Sony/)
+- [Verizon](./Verizon/)
+- [ZopSmart](./ZopSmart/)
 
-## Support this
+</details>
 
-This is maintained on personal time, and it only stays useful because people keep contributing their interview experiences. If it helped your prep, starring the repo is the simplest way to say thanks — it also makes the repo easier for the next person to find.
+<details>
+<summary><strong>🏦 Banking, Financial Services & Fintech</strong></summary>
+
+- [Alphadyne](./Alphadyne/)
+- [AMEX](./AMEX/)
+- [Commonwealth Bank](./Commonwealth_Bank/)
+- [JPMorgan](./JPMorgan/)
+- [Marsh McLennan](./Marsh_McLennan/)
+- [Moody's](./Moodys/)
+- [Morgan Stanley](./Morgan_Stanley/)
+- [NatWest Group](./NatWest_Group/)
+- [NPCI](./NPCI/)
+- [Perfios](./Perfios/)
+- [Synechron](./Synechron/)
+
+</details>
+
+<details>
+<summary><strong>🚗 Automotive, Industrial & Specialized Engineering</strong></summary>
+
+- [BMW TechWorks](./BMW_TechWorks/)
+- [Koerber Pharma](./Koerber_Pharma/)
+- [Volkswagen Group Digital](./Volkswagen_Group_Digital/)
+
+</details>
+
+<details>
+<summary><strong>🧩 Other, Specialist & Unclassified Companies</strong></summary>
+
+The following folders are kept together where a reliable category cannot be established from the folder name alone.
+
+- [CMT](./CMT/)
+- [Intact Green Services](./Intact_Green_Services/)
+- [Nextturn](./Nextturn/)
+- [NUOS INFO Systems](./NUOS_INFO_Systems/)
+- [PlanSource ValueLabs](./Plansource_ValueLabs/)
+- [SquareOps](./SquareOps/)
+- [Syncortex](./Syncortex/)
+- [Turning](./Turning/)
+- [Wikreate Media](./Wikreate_Media/)
+- [ZS Associates](./ZS_Associates/)
+- [Others — Unnamed Companies](./Others/)
+
+</details>
+
+---
+
+**🚀 Ready to prepare?** Pick a company, open its interview experiences, practice the questions, and contribute your own experience to help the next engineer succeed.
